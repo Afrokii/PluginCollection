@@ -1234,8 +1234,10 @@
         "freePlugin": true
     }
     {
-        "name": "Vivecraft Plugin"
-	"desc": "Have people with vr headsets join your world!"
-	"jarName'
+        "name": "Vivecraft Plugin",
+	"desc": "Have people with vr headsets join your world!",
+	"jarName": "Vivecraft_Spigot_Extensions",
+	"configName": "Vivecraft",
+	"freePlugin": true
     }
 ]
