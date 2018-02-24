@@ -1233,4 +1233,9 @@
         "configName": "ChatFeelings",
         "freePlugin": true
     }
+    {
+        "name": "Vivecraft Plugin"
+	"desc": "Have people with vr headsets join your world!"
+	"jarName'
+    }
 ]
